@@ -34,3 +34,17 @@ STEP BY STEP PROCESS:
 FINAL OUTPUT:
 
 ![image](https://github.com/naveeen0308/Parking-space-detector-and-counter/assets/142158386/0ffaec7c-e9fb-45ec-a631-55ad53dd6ddc)
+
+
+How to run 
+
+
+- py -3.11 -m venv .venv       
+- Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass                    
+- .venv\Scripts\activate or .\.venv\Scripts\Activate.ps1   
+
+- python -m pip install requirements.txt
+
+- python resize_video.py  (or)  python -m python resize_video.py
+
+- python main.py or python -m python main.py    
